@@ -7,10 +7,6 @@ body {
     width: auto;
     font-family: 源柔ゴシックX;
     font-size: large;
-    background-image: url('SystemImages/background.png');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
 }
 
 h1 {
