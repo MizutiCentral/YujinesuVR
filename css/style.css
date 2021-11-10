@@ -1,6 +1,6 @@
 body {
     width: auto;
-    font-family: "K F ひま字";
+    font-family: "Meiryo UI", "Hiragino Sans", "Hiragino Kaku Gothic ProN","Yu Gothic UI", "MS PGothic", sans-serif;
     font-size: large;
     background-image: url('SystemImages/background.png');
     background-repeat: no-repeat;
@@ -55,14 +55,12 @@ h4 {
   z-index: 2;
 }
 
-@import url('https://fonts.googleapis.com/css?family=Sacramento');
 .headder {
     text-align: center;
     background-color: #ff54ba;
     color: white;
     padding-top: 60px;
     padding-bottom: 80px;
-    font-family: 'Sacramento', cursive;
 }
 
 .img {
@@ -95,16 +93,9 @@ h4 {
     color: skyblue;
 }
 
-@import url('https://fonts.googleapis.com/css?family=Sacramento');
-.page-link {
-    font-family: 'Sacramento', cursive;
-}
-
-@import url('https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c');
 .kodai{
     text-align: center;
     color: #ff54ba;
-    font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 @import url('https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c');
