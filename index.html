@@ -80,6 +80,11 @@
 
         <title>水槌ゆじねす</title>
 
+        <script>
+            ['load','resize'].forEach(function(i) {window.addEventListener(i, function(event) {
+              document.calcSize.width.value = window.innerWidth;
+            })});
+        </script>
         <style>
             .breadcrumb-item+.breadcrumb-item::before {
               content: ">";
