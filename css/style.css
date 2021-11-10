@@ -37,6 +37,10 @@ h5 {
     text-align: center;
 }
 
+hr {
+    color: #ff54ba;
+}
+
 .page-item {
     color: #ff54ba;
 }
@@ -91,7 +95,7 @@ h5 {
 
 /*selfintro*/
 .rogo{
-    height: 55%;
+    width: 55%;
     display: block;
     margin: auto; 
     padding-top: 30px;
